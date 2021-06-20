@@ -7,7 +7,7 @@ alt: NOBOLO, where nobody is left out.
 caption:
   title: NOBOLO
   subtitle: NOBOLO, where nobody is left out.
-  thumbnail: assets/img/portfolio/nobolo-detail.png
+  thumbnail: assets/img/portfolio/nobolo-main.jpeg
 
 --- 
 NOBOLO, where nobody is left out. Capture real-life experiences and connect with the world. NOBOLO allows you to request on-demand photography both in person or at a remote location with a simple two-step process. In a time where cellphones are one of our most valued and intimate possessions, it’s expected that you will be hesitant to lend your phone to a stranger. NOBOLO allows you to interact with other users and request photos while still maintaining a safe distance.

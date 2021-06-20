@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: CarPrix
   subtitle: Safe Car Trading
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Carprix main.png
   
 #what displays when the item is clicked:
 title: CarPrix

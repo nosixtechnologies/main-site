@@ -84,11 +84,11 @@ en: &DEFAULT_EN
         desc: "Once the plan is set, our team of designers will take the task to develop a layout for your site, app or web solution. After the design is completed we’ll get you to sign off on it and we will implement it."
         image: assets/img/timeline/design.jpg
         alt:
-      - title: "Development"
+      - title: "Develop"
         # year: "2019"
         desc: "Once you are happy with the design of your product, our programmers will implement that design and build your site. We’ll create all the functionality that we agreed with you during the planning stage and deliver top quality every time."
         image: assets/img/timeline/develop.jpg
-        alt: Development
+        alt: Develop
       - title: "Test"
         # year: "2009-2011"
         desc: "Finally, we move into the testing phase of the project. We’ll test your site in conjunction with you. Once you’re happy with the functionality of your web site, we’ll ask you to sign off on the project."
