@@ -11,126 +11,163 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    # title: Your vision before your eyes
+    text: Your vision before your eyes
+    button: Explore
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We provide quality solutions for all your needs"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Software Consultancy"
+        desc: "If you have an idea that could be a game changer, we can help you bring it to life."
+        icon: fas fa-briefcase
+      - title: "E-commerce (Online Store)"
+        desc: "Meet your sales target!"
+        icon: fas fa-shopping-cart
+      - title: "Mobile Application Development"
+        desc: "Take your business on the go!"
+        icon: fas fa-mobile-alt
+      - title: "Website Development"
+        desc: "Pitch your business through customer friendly website!"
+        icon: fas fa-laptop-code
+      - title: "Search Engine Optimisation (SEO)"
+        desc: "Improve the ranking of your business through SEO!"
+        icon: fas fa-bullhorn
+      - title: "Digital Marketing"
+        desc: "Promote your business through Social media (Facebook, Instagram, Youtube)"
+        icon: fas fa-chart-line
+      - title: "Google Ad-words Service (Pay Per Click)"
+        desc: "Increase your revenue through Ads"
+        icon: fas fa-coins
+      - title: "Product Optimization"
+        desc: "Optimize your Web/Mobile App as per the market demands!"
+        icon: fas fa-chart-area
+      # - title: "Complete Website Redesign"
+      #   desc: "A makeover for your business!"
+      #   icon: fas fa-palette
+      # - title: "Complete Website Optimization"
+      #   desc: "Optimize your website as per the market demands!"
+      #   icon: fas fa-chart-line
+      # - title: "Social Media Marketing (FB, Insta)"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #   icon: fas fa-laptop
+      # - title: "Local Business Marketing (Google Maps)"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #   icon: fas fa-laptop
+      # - title: "Google Ad-words Service (Pay Per Click)"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #   icon: fas fa-laptop
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Previous Work"
+    text: "Successful Partners"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "Our Process"
+    text: "What to expect when working with us"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Analyse"
+        # year: "1"
+        desc: "Our thorough analysis will bring clarity to the business plan that will be used to successfully define the detailed requirements for the project to be successful."
+        image: assets/img/timeline/analyse.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Design"
+        # year: "March 2011"
+        desc: "Once the plan is set, our team of designers will take the task to develop a layout for your site, app or web solution. After the design is completed we’ll get you to sign off on it and we will implement it."
+        image: assets/img/timeline/design.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Development"
+        # year: "2019"
+        desc: "Once you are happy with the design of your product, our programmers will implement that design and build your site. We’ll create all the functionality that we agreed with you during the planning stage and deliver top quality every time."
+        image: assets/img/timeline/develop.jpg
+        alt: Development
+      - title: "Test"
+        # year: "2009-2011"
+        desc: "Finally, we move into the testing phase of the project. We’ll test your site in conjunction with you. Once you’re happy with the functionality of your web site, we’ll ask you to sign off on the project."
+        image: assets/img/timeline/test.jpg
         alt:
         # you can enforce the alignment
         align: right
+
+      - title: "Launch"
+        # year: "2019"
+        desc: "Hurrah! Today is the launch day. After four stages are completed we get approval from you to transfer it from local to online. We setup nice and fine server in place and make it live."
+        image: assets/img/timeline/launch.png
+        alt: image alt text
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "About us"
+    # text: "our story"
+    description: "We see the world as a canvas of problems and solutions. At Nosix Technologies our aim is to provide solutions for any business size and any technology. Top engineers with years of experience form the heart of our organisation. We believe in transparency of the process and delivering quality products to our partners. The team has several successful initiatives currently live on various platforms."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  # team:
+  #   title: "OUR AMAZING TEAM"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  #   section: team
+  #   people:
+  #     - name: "Kay Garland"
+  #       role: "Lead Designer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Larry Parker"
+  #       role: "Lead Marketer"
+  #       image: assets/img/team/2.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Diana Perterson"
+  #       role: "Lead Developer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Interested? Get in touch with us!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -143,19 +180,19 @@ en: &DEFAULT_EN
     subject: "Contact Form Submission"
     submit: "Send Message"
 
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+  # footer:
+    # legal: "Privacy Policy"
+    # social:
+      # - url: https://twitter.com
+      #   icon: "fab fa-twitter"
+      # - url: https://facebook.com
+      #   icon: "fab fa-facebook-f"
+      # - url: https://linkedin.com
+      #   icon: "fab fa-linkedin-in"
+      # - url: https://github.com/raviriley/agency-jekyll-theme
+      #   icon: "fab fa-github"
+      # - url: https://instagram.com
+      #   icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

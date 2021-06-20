@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/timeline/1.jpg
   
 #what displays when the item is clicked:
 title: Title
