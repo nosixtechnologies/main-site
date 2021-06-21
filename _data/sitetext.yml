@@ -21,29 +21,29 @@ en: &DEFAULT_EN
     text: "We provide quality solutions for all your needs"
     section: services
     list:
+      - title: "Mobile Application Development"
+        desc: "Take your business on the go"
+        icon: fas fa-mobile-alt
+      - title: "Website Development"
+        desc: "Pitch your business through customer friendly website"
+        icon: fas fa-laptop-code
       - title: "Software Consultancy"
         desc: "If you have an idea that could be a game changer, we can help you bring it to life."
         icon: fas fa-briefcase
-      - title: "E-commerce (Online Store)"
-        desc: "Meet your sales target!"
-        icon: fas fa-shopping-cart
-      - title: "Mobile Application Development"
-        desc: "Take your business on the go!"
-        icon: fas fa-mobile-alt
-      - title: "Website Development"
-        desc: "Pitch your business through customer friendly website!"
-        icon: fas fa-laptop-code
       - title: "Search Engine Optimisation (SEO)"
-        desc: "Improve the ranking of your business through SEO!"
+        desc: "Improve the ranking of your business through SEO"
         icon: fas fa-bullhorn
       - title: "Digital Marketing"
         desc: "Promote your business through Social media (Facebook, Instagram, Youtube)"
         icon: fas fa-chart-line
+      - title: "E-commerce (Online Store)"
+        desc: "Meet your sales target"
+        icon: fas fa-shopping-cart
       - title: "Google Ad-words Service (Pay Per Click)"
         desc: "Increase your revenue through Ads"
         icon: fas fa-coins
       - title: "Product Optimization"
-        desc: "Optimize your Web/Mobile App as per the market demands!"
+        desc: "Optimize your Web/Mobile App as per the market demands"
         icon: fas fa-chart-area
       # - title: "Complete Website Redesign"
       #   desc: "A makeover for your business!"
@@ -89,7 +89,7 @@ en: &DEFAULT_EN
         desc: "Once you are happy with the design of your product, our programmers will implement that design and build your site. We’ll create all the functionality that we agreed with you during the planning stage and deliver top quality every time."
         image: assets/img/timeline/develop.jpg
         alt: Develop
-      - title: "Test"
+      - title: "Quality Assurance"
         # year: "2009-2011"
         desc: "Finally, we move into the testing phase of the project. We’ll test your site in conjunction with you. Once you’re happy with the functionality of your web site, we’ll ask you to sign off on the project."
         image: assets/img/timeline/test.jpg
