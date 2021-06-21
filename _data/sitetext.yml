@@ -25,10 +25,10 @@ en: &DEFAULT_EN
         desc: "Take your business on the go"
         icon: fas fa-mobile-alt
       - title: "Website Development"
-        desc: "Pitch your business through customer friendly website"
+        desc: "Pitch your business through a customer friendly website"
         icon: fas fa-laptop-code
       - title: "Software Consultancy"
-        desc: "If you have an idea that could be a game changer, we can help you bring it to life."
+        desc: "If you have an idea that could be a game changer, we can help you bring it to life"
         icon: fas fa-briefcase
       - title: "Search Engine Optimisation (SEO)"
         desc: "Improve the ranking of your business through SEO"
@@ -63,7 +63,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Previous Work"
-    text: "Successful Partners"
+    text: "Our Successful Partners"
     section: portfolio
     closebutton: "Close Project"
 
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
         desc: "Hurrah! Today is the launch day. After four stages are completed we get approval from you to transfer it from local to online. We setup nice and fine server in place and make it live."
         image: assets/img/timeline/launch.png
         alt: image alt text
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be a part <br> of our <br> story!"
 
   about:
     title: "About us"
