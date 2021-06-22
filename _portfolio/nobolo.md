@@ -1,12 +1,12 @@
 ---
 title: NOBOLO
-subtitle: NOBOLO, where nobody is left out.
+subtitle: NOBOLO, where nobody is left out
 image: assets/img/portfolio/nobolo-detail.png
-alt: NOBOLO, where nobody is left out.
+alt: NOBOLO, where nobody is left out
 
 caption:
   title: NOBOLO
-  subtitle: NOBOLO, where nobody is left out.
+  subtitle: NOBOLO, where nobody is left out
   thumbnail: assets/img/portfolio/nobolo-main.jpeg
 
 --- 

@@ -74,7 +74,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Analyse"
+      - title: "Analyze"
         # year: "1"
         desc: "Our thorough analysis will bring clarity to the business plan that will be used to successfully define the detailed requirements for the project to be successful."
         image: assets/img/timeline/analyse.jpg
@@ -86,12 +86,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Develop"
         # year: "2019"
-        desc: "Once you are happy with the design of your product, our programmers will implement that design and build your site. We’ll create all the functionality that we agreed with you during the planning stage and deliver top quality every time."
+        desc: "Once you are happy with the design of your product, our programmers will implement that design and build your idea. We’ll create all the functionality that we agreed with you during the planning stage and deliver top quality every time."
         image: assets/img/timeline/develop.jpg
         alt: Develop
       - title: "Quality Assurance"
         # year: "2009-2011"
-        desc: "Finally, we move into the testing phase of the project. We’ll test your site in conjunction with you. Once you’re happy with the functionality of your web site, we’ll ask you to sign off on the project."
+        desc: "Finally, we move into the testing phase of the project. We’ll test your project in conjunction with you. Once you’re happy with the functionality, we’ll ask you to sign off on the project."
         image: assets/img/timeline/test.jpg
         alt:
         # you can enforce the alignment
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
 
       - title: "Launch"
         # year: "2019"
-        desc: "Hurrah! Today is the launch day. After four stages are completed we get approval from you to transfer it from local to online. We setup nice and fine server in place and make it live."
+        desc: "Hurrah! Today is the launch day. After completion of the four stages, we get approval from you to transfer it from local to cloud server."
         image: assets/img/timeline/launch.png
         alt: image alt text
     end: "Be a part <br> of our <br> story!"
