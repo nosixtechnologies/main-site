@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: GutsyHome
   subtitle: Property Repairs and Rent Payment made easy
-  thumbnail: assets/img/portfolio/gutsy.png
+  thumbnail: assets/img/portfolio/gutsy.webp
   
 #what displays when the item is clicked:
 title: GutsyHome
 subtitle: Property Repairs and Rent Payment made easy
-image: assets/img/portfolio/gutsy-detail.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/gutsy-detail.webp #main image, can be a link or a file in assets/img/portfolio
 alt: CarPrix
 
 ---

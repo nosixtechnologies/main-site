@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: CarPrix
   subtitle: Safe Car Trading
-  thumbnail: assets/img/portfolio/carprix.png
+  thumbnail: assets/img/portfolio/carprix.webp
   
 #what displays when the item is clicked:
 title: CarPrix
 subtitle: Safe Car Trading
-image: assets/img/portfolio/carprix-detail.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/carprix-detail.webp #main image, can be a link or a file in assets/img/portfolio
 alt: CarPrix
 
 ---
