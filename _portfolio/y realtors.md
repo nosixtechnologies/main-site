@@ -1,12 +1,12 @@
 ---
 title: Kenex
-subtitle: The future of buying & selling real estate.
+subtitle: The future of buying & selling real estate
 image: assets/img/portfolio/kenex-detail.png
-alt: The future of buying & selling real estate.
+alt: The future of buying & selling real estate
 
 caption:
   title: Kenex
-  subtitle: The future of buying & selling real estate.
+  subtitle: The future of buying & selling real estate
   thumbnail: assets/img/portfolio/kenex.jpeg
 
 --- 

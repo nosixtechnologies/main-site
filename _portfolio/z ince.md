@@ -1,12 +1,12 @@
 ---
 title: Ince
-subtitle: 
+subtitle: A seller of electronic items
 image: assets/img/portfolio/ince.png
 alt: Ince
 
 caption:
   title: Ince
-  subtitle: 
+  subtitle: A seller of electronic items
   thumbnail: assets/img/portfolio/ince1.png
 
 --- 
