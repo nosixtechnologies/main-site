@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "Software Consultancy"
         desc: "If you have an idea that could be a game changer, we can help you bring it to life"
         icon: fas fa-briefcase
-      - title: "Search Engine Optimisation (SEO)"
+      - title: "Search Engine Optimization (SEO)"
         desc: "Improve the ranking of your business through SEO"
         icon: fas fa-bullhorn
       - title: "Digital Marketing"
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
       - title: "E-commerce (Online Store)"
         desc: "Meet your sales target"
         icon: fas fa-shopping-cart
-      - title: "Google Ad-words Service (Pay Per Click)"
+      - title: "Google Ads (Pay per Click)"
         desc: "Increase your revenue through Ads"
         icon: fas fa-coins
       - title: "Product Optimization"
@@ -107,7 +107,7 @@ en: &DEFAULT_EN
   about:
     title: "About us"
     # text: "our story"
-    description: "We see the world as a canvas of problems and solutions. At Nosix Technologies our aim is to provide solutions for any business size and any technology. Top engineers with years of experience form the heart of our organisation. We believe in transparency of the process and delivering quality products to our partners. The team has several successful initiatives currently live on various platforms."
+    description: "At Nosix Technologies we see the world as a canvas of problems and solutions. We provide technological solutions for all your business needs. Top engineers with years of experience form the heart of our organization to deliver quality products. Through transparency of the process and our commitment to supporting your business goals, we are dedicated to exceeding our partners expectations."
     section: about
 
   # clients:
